@@ -1,0 +1,34 @@
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.csv
+*.env
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# Dist folders
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Compiled files
+*.out
+*.js.map
+
+# Environment variables
+.env
